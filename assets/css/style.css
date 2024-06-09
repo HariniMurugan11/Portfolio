@@ -573,6 +573,9 @@ pre code {
   }
 }
 .row1{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   justify-content: center;
   justify-content: space-evenly;
